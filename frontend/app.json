@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "IC19",
+    "slug": "ic19",
+    "scheme": "ic19",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"]
+  }
+}
